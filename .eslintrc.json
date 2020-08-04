@@ -21,8 +21,8 @@
     ],
     "rules": {
         "react/jsx-filename-extension": [1, { "extensions": [".js"] }],
-        "jsx-a11y/rule-name": 2,
-        "linebreak-style": ["error", "windows"]
+        "jsx-a11y/rule-name": 1,
+        "linebreak-style": ["error", "windows"],
         /*"linebreak-style": ["error", "unix"]*/
     }
 }
